@@ -1,0 +1,19 @@
+{
+  "name": "todo-ruby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryn9696/To-Do-List-Ruby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryn9696/To-Do-List-Ruby/issues"
+  },
+  "homepage": "https://github.com/bryn9696/To-Do-List-Ruby#readme"
+}
